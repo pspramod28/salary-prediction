@@ -1,1 +1,1 @@
-# salary-prediction-using-machine-learning
+# salary-prediction
