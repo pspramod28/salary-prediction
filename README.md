@@ -6,5 +6,5 @@ To predict salary on the basis of experiance, education and position
  Missing value analysis, Outlayer removeal etc
 # Approcah
  Linear Regression - Regression equation, Validation & Prediction
-#Result
+# Result
  Accuracy 0.9998(99%)
